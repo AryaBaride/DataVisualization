@@ -103,3 +103,4 @@ if chart_select == 'Pieplot':
         st.plotly_chart(plot)
     except Exception as e:
         print(e)
+        
